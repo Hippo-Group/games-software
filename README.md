@@ -11,3 +11,4 @@ WARNING: If you use the link above, this is a Windows program only and an older 
 Also used for Appbox for Windows.
 .tar: Used for Appbox for Linux.
 .pkg: Used for Appbox for Mac.
+This repository is now closed. Please head to games-software-new.
